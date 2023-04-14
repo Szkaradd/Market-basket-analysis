@@ -23,3 +23,4 @@ jupyter notebook
 ```bash
 deactivate
 ```
+For project details, see Market_basket_analysis_presentation.pdf
